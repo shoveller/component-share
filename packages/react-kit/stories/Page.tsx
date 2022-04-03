@@ -1,7 +1,7 @@
+import {Header} from "react-kit/Header";
 import React from 'react';
 
-import { Header } from './Header';
-import './page.css';
+import 'react-kit/page.css';
 
 type User = {
   name: string;

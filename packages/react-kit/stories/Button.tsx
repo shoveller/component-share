@@ -1,5 +1,5 @@
 import React from 'react';
-import './button.css';
+import 'react-kit/button.css';
 
 interface ButtonProps {
   /**
